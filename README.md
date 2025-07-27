@@ -1,5 +1,11 @@
 ## Hi, I'm Zoey!👋
 
+### 🎓 Senior at University of Minnesota, studying Computer Science
+I am interested in the fields of Software Engineering and Artificial Intelligence. I am excited to apply my problem solving skills, learn new technical skills, and work collaboratively to create innovative projects. I am eager to connect!
+
+### 📫 How to reach me:
+- Email: ponni006@umn.edu
+- LinkedIn: [linkedin.com/in/zoey-ponnie/](https://www.linkedin.com/in/zoey-ponnie/)
 <!--
 **zaponnie/zaponnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
