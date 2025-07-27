@@ -1,7 +1,7 @@
 ## Hi, I'm Zoey!👋
 
 ### 🎓 Senior at University of Minnesota, studying Computer Science
-I am interested in the fields of Software Engineering and Artificial Intelligence. I am excited to apply my problem solving skills, learn new technical skills, and work collaboratively to create innovative projects. I am eager to connect!
+I am interested in the fields of Software Engineering and Artificial Intelligence. I am excited to apply my problem solving skills, learn new technical skills, and work collaboratively to create innovative projects. I am currently exploring AI/ML and building my technical skills as a [Break Through Tech Fellow](https://www.breakthroughtech.org/). I am eager to connect!
 
 ### 📫 How to reach me:
 - Email: ponni006@umn.edu
